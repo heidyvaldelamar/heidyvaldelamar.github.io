@@ -1,7 +1,7 @@
 # Portafolio:
 ## Clon del navegador de Google 
 ![Captura1](captura_clon_tecno.png)
-[Enlace al clon de Google](https://www.ejemplo.com](https://heidyvaldelamar.github.io/googleclon_tecnopro/)
+[Enlace al clon de Google](https://heidyvaldelamar.github.io/googleclon_tecnopro/)
 
 ## Mi sitio web profesional
 ![Captura1](site.png)
